@@ -1,0 +1,19 @@
+<content class="class19">
+    <div>
+        <img src="/first table.jpeg" alt="logo" width="100px" height="120px">
+        <h3 class="class8">Search engine<br>optimization</h3>
+        <p class="class9">Learn more</p>
+    </div>
+    <div class="class10">
+       <h5 class="class11">Pay per click advertising</h5>
+       <p class="class12"> Learn more</p>
+    </div>
+    <div class="class13">
+        <h3 class="class14">Social media<br> marketing</h3>
+        <p class="class15">learn more</p>
+    </div>
+    <div class="class16">
+        <h3 class="class17">E-mail<br>Marketing</h3>
+        <p class="class18"> Learn more</p>
+    </div>
+</content>
